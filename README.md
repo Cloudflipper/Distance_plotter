@@ -3,6 +3,9 @@
 This project generates a high-resolution travel time heatmap from a given origin point in Shanghai using a locally deployed **OSRM (Open Source Routing Machine)** backend.  
 It builds a uniform grid of latitude-longitude coordinates, queries OSRM for estimated driving times, filters out water regions, and visualizes the results on an OpenStreetMap base map.
 
+![Demo Image](osrm_times_map_minhang.png)
+
+
 ## ⚙️ Parameters
 
 At the top of `runpic.py`, you can adjust the following parameters to control the experiment:
