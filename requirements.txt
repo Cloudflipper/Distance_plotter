@@ -1,0 +1,8 @@
+requests==2.32.3
+numpy==1.26.4
+geopandas==1.0.1
+osmnx==1.9.4
+shapely==2.0.6
+tqdm==4.66.5
+matplotlib==3.9.2
+contextily==1.6.0
